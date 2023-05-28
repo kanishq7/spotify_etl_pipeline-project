@@ -13,4 +13,5 @@ Implement Complete Data Pipeline Data Engineering Project using Spotify
 * Building Analytics Tables on data files using Glue and Athena
 
 #Architecture
-![Architecture Diagram]([http://url/to/img.png](https://github.com/kanishq7/spotify_etl_pipeline-project/blob/main/spotify.png))
+
+![Architecture Diagram](https://github.com/kanishq7/spotify_etl_pipeline-project/blob/main/spotify.png)
