@@ -4,6 +4,7 @@
 In this Project, we will build an ETL(EXTRACT,TRANSFORM,LOAD) pipeline using the Spotify API on AWS.
 Implement Complete Data Pipeline Data Engineering Project using Spotify
 
+### Overview
 * Integrating with Spotify API and extracting Data
 * Deploying code on AWS Lambda for Data Extraction
 * Adding trigger to run the extraction automatically
